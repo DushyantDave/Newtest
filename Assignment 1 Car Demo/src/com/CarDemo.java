@@ -4,7 +4,7 @@ public class CarDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Car one = new Car("Hundai", "santro", 5, 20000);
+		Car one = new Car("Hundai", "santro", 5, 20500);
 		Car two = new Car("Toyota", "cammery", 4, 22000 );
 		Car three = new Car("Honda", "Accord", 4, 23000); 
 		Car four = new Car("Nissan", "ALtima", 4,21000); 
